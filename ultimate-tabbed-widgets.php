@@ -5,7 +5,7 @@ Plugin URI: http://vedovini.net/?utm_source=wordpress&utm_medium=plugin&utm_camp
 Description: Allows to create widget areas that can be turned into tabs or accordion using widgets or shortcodes
 Author: Claude Vedovini
 Author URI: http://vedovini.net/?utm_source=wordpress&utm_medium=plugin&utm_campaign=ultimate-tabbed-widgets
-Version: 1.RC1
+Version: 1.0
 Text Domain: ultimate-tabbed-widgets
 
 # The code in this plugin is free software; you can redistribute the code aspects of
