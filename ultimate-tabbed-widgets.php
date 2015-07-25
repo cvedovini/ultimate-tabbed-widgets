@@ -41,7 +41,7 @@ class UltimateTabbedWidgets {
 
 	function __construct() {
 		add_action('init', array(&$this, 'init'));
-		add_action('admin_menu', array(&$this, 'admin_init'));
+		add_action('admin_init', array(&$this, 'admin_init'));
 		add_action('widgets_init', array(&$this, 'register_widget'));
 
 		// Make plugin available for translation
