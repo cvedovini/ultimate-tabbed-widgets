@@ -41,7 +41,7 @@ class UltimateTabbedWidgets {
 
 	function __construct() {
 		add_action('init', array(&$this, 'init'));
-		add_action('admin_init', array(&$this, 'admin_init'));
+		add_action('admin_menu', array(&$this, 'admin_menu'));
 		add_action('widgets_init', array(&$this, 'register_widget'));
 
 		// Make plugin available for translation
@@ -70,7 +70,7 @@ class UltimateTabbedWidgets {
 		add_shortcode('utw', 'utw_shortcode');
 	}
 
-	function admin_init() {
+	function admin_menu() {
 		add_filter('plugin_action_links_ultimate-tabbed-widgets/ultimate-tabbed-widgets.php', array(&$this, 'add_settings_link'));
 		add_options_page(__('Tabbed Widgets', 'ultimate-tabbed-widgets'), __('Tabbed Widgets', 'ultimate-tabbed-widgets'),
 				'manage_options', 'ultimate-tabbed-widgets', array(&$this, 'options_page'));
