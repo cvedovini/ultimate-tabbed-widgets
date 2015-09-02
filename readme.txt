@@ -1,7 +1,7 @@
 === Ultimate Tabbed Widgets ===
 Author: Claude Vedovini
 Contributors: cvedovini
-Donate link: http://vedovini.net/plugins/?utm_source=wordpress&utm_medium=plugin&utm_campaign=ultimate-tabbed-widgets
+Donate link: http://paypal.me/vdvn
 Tags: widget,widgets,tabs,accordion,sidebar
 Requires at least: 2.7
 Tested up to: 4.3

@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Ultimate Tabbed Widgets
-Plugin URI: http://vedovini.net/?utm_source=wordpress&utm_medium=plugin&utm_campaign=ultimate-tabbed-widgets
+Plugin URI: http://vdvn.me/pga
 Description: Allows to create widget areas that can be turned into tabs or accordion using widgets or shortcodes
 Author: Claude Vedovini
-Author URI: http://vedovini.net/?utm_source=wordpress&utm_medium=plugin&utm_campaign=ultimate-tabbed-widgets
+Author URI: http://vdvn.me/
 Version: 1.0.1
 Text Domain: ultimate-tabbed-widgets
 
