@@ -5,7 +5,7 @@ Donate link: http://paypal.me/vdvn
 Tags: widget,widgets,tabs,accordion,sidebar
 Requires at least: 2.7
 Tested up to: 4.3
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -34,7 +34,10 @@ method](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins):
 
 == Changelog ==
 
-= version 1.0.1 =
+= Version 1.1 =
+- Updated all translations
+
+= Version 1.0.1 =
 - Changes for WordPress 4.3
 
 = Version 1.0 =

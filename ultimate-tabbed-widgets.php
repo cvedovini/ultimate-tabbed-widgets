@@ -5,7 +5,7 @@ Plugin URI: http://vdvn.me/pga
 Description: Allows to create widget areas that can be turned into tabs or accordion using widgets or shortcodes
 Author: Claude Vedovini
 Author URI: http://vdvn.me/
-Version: 1.0.1
+Version: 1.1
 Text Domain: ultimate-tabbed-widgets
 
 # The code in this plugin is free software; you can redistribute the code aspects of
@@ -66,7 +66,7 @@ class UltimateTabbedWidgets {
 	}
 
 	function init() {
-		add_action('wp_print_styles', array(&$this, 'register_styles'));
+		add_action('wp_enqueue_scripts', array(&$this, 'enqueue_scripts'));
 		add_shortcode('utw', 'utw_shortcode');
 	}
 
@@ -119,14 +119,14 @@ class UltimateTabbedWidgets {
 		register_widget('UltimateTabbedWidgetsWidget');
 	}
 
-	function register_styles() {
+	function enqueue_scripts() {
 		if ($this->is_theme_enabled()) {
 			wp_enqueue_style('utw-ui', plugins_url('theme/jquery-ui.css', __FILE__), false, '1.0');
 		}
 	}
 
 	function add_settings_link($links) {
-		$url = site_url('/wp-admin/options-general.php?page=ultimate-tabbed-widgets');
+		$url = admin_url('options-general.php?page=ultimate-tabbed-widgets');
 		$links[] = '<a href="' . $url . '">' . __('Settings') . '</a>';
 		return $links;
 	}
