@@ -1,0 +1,85 @@
+# Translation of Ultimate Tabbed Widgets in Italian
+# This file is distributed under the same license as the Ultimate Tabbed Widgets package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-28 16:20:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ultimate Tabbed Widgets\n"
+
+#: ultimate-tabbed-widgets.php:75
+msgid "Tabbed Widgets"
+msgstr "Tabbed Widgets"
+
+#: ultimate-tabbed-widgets.php:80
+msgid "Widget areas"
+msgstr "Aree di widget"
+
+#: ultimate-tabbed-widgets.php:84
+msgid "Disable default theme"
+msgstr "Disabilita tema di default"
+
+#: ultimate-tabbed-widgets.php:130
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ultimate-tabbed-widgets.php:137
+msgid "Tabbed Widgets Options"
+msgstr "A schede Widgets Opzioni"
+
+#: ultimate-tabbed-widgets.php:149
+msgid "List the widgets areas you want to define, one by line."
+msgstr "Elencare le zone widget che si desidera definire, uno per riga."
+
+#: ultimate-tabbed-widgets.php:155
+msgid "Check this option if you want to use your own styling."
+msgstr "Selezionare questa opzione se si desidera utilizzare il proprio stile."
+
+#: ultimate-tabbed-widgets.php:163
+msgid "Displays widgets in tabs"
+msgstr "Consente di visualizzare i widget in schede"
+
+#. #-#-#-#-#  plugin.pot (Ultimate Tabbed Widgets 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: ultimate-tabbed-widgets.php:165
+msgid "Ultimate Tabbed Widgets"
+msgstr "Ultimo schede Widgets"
+
+#: ultimate-tabbed-widgets.php:205
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ultimate-tabbed-widgets.php:212
+msgid "Widget Area:"
+msgstr "Area Widget:"
+
+#: ultimate-tabbed-widgets.php:223
+msgid "Template:"
+msgstr "Modello:"
+
+#: ultimate-tabbed-widgets.php:227
+msgid "Tabs"
+msgstr "Tabs"
+
+#: ultimate-tabbed-widgets.php:229
+msgid "Accordion"
+msgstr "Fisarmonica"
+
+#. Plugin URI of the plugin/theme
+msgid "http://vdvn.me/pga"
+msgstr "http://vdvn.me/pga"
+
+#. Description of the plugin/theme
+msgid "Allows to create widget areas that can be turned into tabs or accordion using widgets or shortcodes"
+msgstr "Permette di creare aree di widget che possono essere trasformate in schede o fisarmonica utilizzando i widget o codici brevi"
+
+#. Author of the plugin/theme
+msgid "Claude Vedovini"
+msgstr "Claude Vedovini"
+
+#. Author URI of the plugin/theme
+msgid "http://vdvn.me/"
+msgstr "http://vdvn.me/"

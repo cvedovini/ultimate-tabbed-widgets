@@ -1,0 +1,85 @@
+# Translation of Ultimate Tabbed Widgets in Spanish (Spain)
+# This file is distributed under the same license as the Ultimate Tabbed Widgets package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-28 16:31:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Ultimate Tabbed Widgets\n"
+
+#: ultimate-tabbed-widgets.php:75
+msgid "Tabbed Widgets"
+msgstr "Pestañas Reproductores"
+
+#: ultimate-tabbed-widgets.php:80
+msgid "Widget areas"
+msgstr "Áreas Widget"
+
+#: ultimate-tabbed-widgets.php:84
+msgid "Disable default theme"
+msgstr "Desactivar tema por defecto"
+
+#: ultimate-tabbed-widgets.php:130
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ultimate-tabbed-widgets.php:137
+msgid "Tabbed Widgets Options"
+msgstr "Pestañas Widgets Opciones"
+
+#: ultimate-tabbed-widgets.php:149
+msgid "List the widgets areas you want to define, one by line."
+msgstr "Enumerar las áreas de widgets que desea definir, uno por línea."
+
+#: ultimate-tabbed-widgets.php:155
+msgid "Check this option if you want to use your own styling."
+msgstr "Marque esta opción si desea utilizar su propio estilo."
+
+#: ultimate-tabbed-widgets.php:163
+msgid "Displays widgets in tabs"
+msgstr "Muestra widgets en pestañas"
+
+#. #-#-#-#-#  plugin.pot (Ultimate Tabbed Widgets 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: ultimate-tabbed-widgets.php:165
+msgid "Ultimate Tabbed Widgets"
+msgstr "Último pestañas Reproductores"
+
+#: ultimate-tabbed-widgets.php:205
+msgid "Title:"
+msgstr "Título:"
+
+#: ultimate-tabbed-widgets.php:212
+msgid "Widget Area:"
+msgstr "Área Widget:"
+
+#: ultimate-tabbed-widgets.php:223
+msgid "Template:"
+msgstr "Modelo:"
+
+#: ultimate-tabbed-widgets.php:227
+msgid "Tabs"
+msgstr "Aquí"
+
+#: ultimate-tabbed-widgets.php:229
+msgid "Accordion"
+msgstr "Acordeón"
+
+#. Plugin URI of the plugin/theme
+msgid "http://vdvn.me/pga"
+msgstr "http://vdvn.me/pga"
+
+#. Description of the plugin/theme
+msgid "Allows to create widget areas that can be turned into tabs or accordion using widgets or shortcodes"
+msgstr "Permite crear áreas de widgets que se pueden convertir en pestañas o acordeón usando widgets o cortos"
+
+#. Author of the plugin/theme
+msgid "Claude Vedovini"
+msgstr "Claude Vedovini"
+
+#. Author URI of the plugin/theme
+msgid "http://vdvn.me/"
+msgstr "http://vdvn.me/"
